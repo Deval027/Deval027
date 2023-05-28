@@ -3,8 +3,6 @@
 
 
 
-                    ${Deval027}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
-
 
 - 🌱 I’m currently learning Rust...
 - 👯 I’m looking to collaborate on Django, Pyton, C Projectst and Web Projects ...
@@ -13,4 +11,4 @@
 - 📫 How to reach me: homeroand6@gmail.com...
 - ⚡ Fun fact: i am a gymrat...
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
