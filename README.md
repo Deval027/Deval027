@@ -3,7 +3,7 @@
 
 
 
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                    ${Deval027}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
 
 
 - 🌱 I’m currently learning Rust...
