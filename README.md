@@ -4,8 +4,7 @@
 
 
 
-- 🌱 fullstack developer nodejs
-- 👯 I’m looking to collaborate on Django, Pyton, C Projectst and Web Projects ...
+- 🌱 Back-end developer
 - 📫 How to reach me: homeroand6@gmail.com...
 
 
